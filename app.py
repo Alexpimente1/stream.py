@@ -1,4 +1,3 @@
-import folium
 import streamlit as st
 import pandas as pd
 from api.service import get_data
